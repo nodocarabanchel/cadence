@@ -1,3 +1,8 @@
+## FORK!
+
+Esto es un fork con el docker-compose modificado para no usar nginx puesto que ya se ejecuta en la rpi1 el nginx inverso.
+
+
 ## 📻 About
 
 **Cadence** (or *CadenceRadio*) is an all-in-one internet radio suite. 
